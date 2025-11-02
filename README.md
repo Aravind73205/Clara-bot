@@ -42,6 +42,10 @@ Here’s how she helps:
 
 ---
 
+## 🤖 Clara Bot Demo
+
+![Screenshot of Clara Chatbot showing a successful answers](assets/Demo_png1)
+
 ## Future Improvements / Prototype Plans 🚀
 
 These are some ideas and plans for future iterations of Clara to make her even more helpful and user friendly:
