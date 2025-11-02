@@ -42,9 +42,9 @@ Here’s how she helps:
 
 ---
 
-## 🤖 Clara Bot Demo
+## Clara Bot Demo
 
-![Screenshot of Clara Chatbot showing a successful answers](assets/Demo_png1)
+![Screenshot of Clara Chatbot showing a successful answers](assets/Demo_png1.png)
 
 ## Future Improvements / Prototype Plans 🚀
 
