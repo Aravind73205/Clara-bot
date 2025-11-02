@@ -45,7 +45,6 @@ Here’s how she helps:
 ## Clara Bot Demo
 
 ![Screenshot of Clara Chatbot showing a successful answers](assets/Demo_Png1.png)
-![Screenshot of a Clara Response](assets/Demo_Png2.png)
 
 
 ## Future Improvements / Prototype Plans 🚀
