@@ -1,10 +1,8 @@
 # MediBot – Clara: Smart Health Assistant 👩🏻‍⚕️💊
 
-**Clara** is your friendly AI health companion, built with **Streamlit** and **Google’s Gemini API**. 
-She’s deployed as a **Streamlit web app**, so you can access her from any browser.  
+**Clara** is your Smart AI Assistant built with **Streamlit** and **Google’s Gemini API**.  
 She chats naturally, offers **common-sense health tips**, and encourages professional medical consultation when needed.  
 
-[Live Link](https://your-app-name.streamlit.app)
 
 > ⚠️ Clara is **not a doctor**. She’s your AI friend who listens and guides with safety first advice.  
 
@@ -37,9 +35,9 @@ Here’s how she helps:
 
 ## Key Features
 
-- **Conversational:** Friendly AI assistant powered by **Gemini 2.5 Flash**  
+- **Conversational:** Friendly AI assistant powered by **Gemini 2.5 Flash**
+-  **Medical disclaimers included:** Ensures safe usage  
 - **Privacy first logging:** User messages are hashed, no personal data stored  
-- **Medical disclaimers included:** Ensures safe usage  
 - **Clean Streamlit UI:** Real time chat interface with minimal design and emoji responses  
 
 ---
@@ -48,7 +46,8 @@ Here’s how she helps:
 
 These are some ideas and plans for future iterations of Clara to make her even more helpful and user friendly:
 
-- **Advanced Symptom Analysis:** Enhance Clara’s understanding of user inputs to provide more accurate guidance and follow ups.  
+- **Advanced Symptom Analysis:** Enhance Clara’s understanding of user inputs to provide more accurate guidance and follow ups.
+- **Cloud Deploymet:** Will be deployed in Cloud , we can easily access from web link 
 - **Voice Chat Support:** Allow users to speak naturally with Clara, making interactions faster and more engaging.  
 - **Multi language Support:** Expand accessibility by supporting multiple languages for global users.  
 - **Prototype Enhancements:** Experiment with AI personalization, context-aware advice, and integration with wearable health data.  
